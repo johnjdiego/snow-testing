@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Chris Secret Santa">a445fe544f0fa20086dfb895f110c753</application>
+        <filter/>
+        <name>Parent Participants</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_chris_secret.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>john.diego@snc</sys_created_by>
+        <sys_created_on>2016-11-08 20:53:30</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1ff572944f0fa20086dfb895f110c7e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Parent Participants</sys_name>
+        <sys_package display_value="Chris Secret Santa" source="x_snc_chris_secret">fe35f6904f0fa20086dfb895f110c76e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Chris Secret Santa">fe35f6904f0fa20086dfb895f110c76e</sys_scope>
+        <sys_update_name>sys_ui_module_1ff572944f0fa20086dfb895f110c7e9</sys_update_name>
+        <sys_updated_by>john.diego@snc</sys_updated_by>
+        <sys_updated_on>2016-11-08 20:53:30</sys_updated_on>
+        <table>x_snc_chris_secret_parent_participants</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
