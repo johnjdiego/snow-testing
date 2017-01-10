@@ -5,7 +5,7 @@
         <active>true</active>
         <api_name>x_snc_chris_secret.SantaKids</api_name>
         <client_callable>false</client_callable>
-        <description>testing</description>
+        <description>testingg</description>
         <name>SantaKids</name>
         <script><![CDATA[var SantaKids = Class.create();
 SantaKids.prototype = {
@@ -35,7 +35,7 @@ SantaKids.prototype = {
         <sys_created_on>2016-11-22 22:36:15</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>c73253342b57e600587535b3e4da15bf</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>SantaKids</sys_name>
         <sys_package display_value="Chris Secret Santa" source="x_snc_chris_secret">fe35f6904f0fa20086dfb895f110c76e</sys_package>
         <sys_policy>read</sys_policy>
@@ -43,6 +43,6 @@ SantaKids.prototype = {
         <sys_scope display_value="Chris Secret Santa">fe35f6904f0fa20086dfb895f110c76e</sys_scope>
         <sys_update_name>sys_script_include_c73253342b57e600587535b3e4da15bf</sys_update_name>
         <sys_updated_by>john.diego@snc</sys_updated_by>
-        <sys_updated_on>2017-01-04 20:53:57</sys_updated_on>
+        <sys_updated_on>2017-01-10 20:41:42</sys_updated_on>
     </sys_script_include>
 </record_update>
